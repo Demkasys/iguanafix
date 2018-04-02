@@ -7,9 +7,9 @@ branches:
 #android:
   #components:
     #- build-tools-18.1.0
-install:
+#install:
   #- ruby
-  - fastlane
+  #- fastlane
 android:
   components:
   - tools

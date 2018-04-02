@@ -2,8 +2,8 @@ language: android
 jdk: oraclejdk8
 branches:
   only:
-    #master  ##Comment with test
-    Develop
+    master  ##Comment with test
+    #Develop
 #android:
   #components:
     #- build-tools-18.1.0
